@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="k-y-z-y-server-recipe" />
+        <module name="k-y-z-y-server-Activity" />
+        <module name="k-y-z-y-server_api" />
+        <module name="k-y-z-y-server_common" />
+        <module name="k-y-z-y-server_UserControl" />
+        <module name="k-y-z-y-server-Picture" />
+        <module name="k-y-z-y-server-YSTControl" />
+        <module name="k-y-z-y-server_model" />
+        <module name="k-y-z-y-server_utils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="k-y-z-y-server-Activity" options="-parameters" />
+      <module name="k-y-z-y-server-Picture" options="-parameters" />
+      <module name="k-y-z-y-server-YSTControl" options="-parameters" />
+      <module name="k-y-z-y-server-recipe" options="-parameters" />
+      <module name="k-y-z-y-server_UserControl" options="-parameters" />
+      <module name="k-y-z-y-server_api" options="-parameters" />
+      <module name="k-y-z-y-server_common" options="-parameters" />
+      <module name="k-y-z-y-server_model" options="-parameters" />
+      <module name="k-y-z-y-server_utils" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server-Activity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server-Picture" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server-YSTControl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server-recipe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server_UserControl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server_model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/k-y-z-y-server_utils" charset="UTF-8" />
+  </component>
+</project>
